@@ -140,6 +140,20 @@ margin:0px 240px;
 .cmp-nm{
     margin-top: 250px;
 }
+.delivary-container{
+    display: flex;
+     gap: 100px;
+    justify-content: center;
+    padding: 250px;
+    background-color: rgba(39, 39, 39, 0.05);
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: underline;
+    
+
+}
+
+
 
 
 .for-box{
@@ -194,6 +208,7 @@ footer{
     margin-top: 55px;
     width: 310px;
 height: 428px;
+
 }
 
 .tree2{
