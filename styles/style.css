@@ -97,8 +97,27 @@ margin:0px 240px;
 .a-box{
     padding: 22px 500px 22px 22px;
     margin-left: 15px;
+    border-radius: 5px;
     
 }
 .a-tag{
     margin: 100px;
+}
+.foot-work{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cmp-nm{
+    margin-top: 250px;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+#hii{
+    margin-bottom: 130px;
+}
+.hello{
+    color: #E55473;
 }
