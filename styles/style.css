@@ -1,3 +1,32 @@
+.navbar{
+    display: flex;
+    list-style: none;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(90, 89, 89);
+}
+.menu{
+    display: flex;
+    list-style: none;
+}
+.menu>ul>li{
+    list-style: none;
+    color: white;
+}
+.navbar>ul>li{
+    list-style: none;
+    
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+    margin-left: 40px;
+    font-size: 25px;
+}
+
 header{
     height: 800px;
     background-color: rgba(229, 84, 115, 0.10);
